@@ -11,13 +11,13 @@
 }
 
 input {
-	font-family: Chinacat;
+	font-family: haxrcorp, monospace;
 	font-size:15px;
 }
 
 body{
-	font-family: Chinacat;
-	font-size:14px;
+	font-family: haxrcorp, monospace;
+	font-size:15px;
 	background-color:#F8F8F8;
 	background-image: url("img/bg_tile.jpg");
 	background-repeat: repeat;
