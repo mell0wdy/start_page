@@ -1,7 +1,7 @@
 @font-face
 {
-    font-family:'haxrcorp','chinacat';
-    src: url('haxrcorpttf.ttf','chint___.ttf');
+    font-family:'haxrcorp';
+    src: url('haxrcorpttf.ttf');
 }
 
 input {
@@ -161,7 +161,7 @@ body{
 
 .welcome {
 	line-height:18px;
-	font-family: chinacat;
+	font-family: haxrcorp, monospace;
 	font-size:16px;
 	position:absolute;
 	top:80px;
