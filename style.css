@@ -135,14 +135,14 @@ body{
 .sidebar {
 	border-style: solid;
 	border-width: 2px;
-	border-color:transparent;
+	border-color: #000000;
 	position: absolute;
 	top: -2px;
 	bottom:200px;
     width: 129px;
 	height: 319px;
     left: 541px;
-	background-color:transparent;
+	background-color: #ffffff;
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
